@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/toDoList/static/css/main.d5c2b49e.chunk.css",
-    "main.js": "/toDoList/static/js/main.6f119591.chunk.js",
-    "main.js.map": "/toDoList/static/js/main.6f119591.chunk.js.map",
-    "runtime-main.js": "/toDoList/static/js/runtime-main.37caf175.js",
-    "runtime-main.js.map": "/toDoList/static/js/runtime-main.37caf175.js.map",
-    "static/js/2.981b5fa8.chunk.js": "/toDoList/static/js/2.981b5fa8.chunk.js",
-    "static/js/2.981b5fa8.chunk.js.map": "/toDoList/static/js/2.981b5fa8.chunk.js.map",
-    "index.html": "/toDoList/index.html",
-    "precache-manifest.870851cc62d4a0c1942802b5fab8bf81.js": "/toDoList/precache-manifest.870851cc62d4a0c1942802b5fab8bf81.js",
-    "service-worker.js": "/toDoList/service-worker.js",
-    "static/css/main.d5c2b49e.chunk.css.map": "/toDoList/static/css/main.d5c2b49e.chunk.css.map",
-    "static/js/2.981b5fa8.chunk.js.LICENSE.txt": "/toDoList/static/js/2.981b5fa8.chunk.js.LICENSE.txt",
-    "static/media/loading.gif": "/toDoList/static/media/loading.77466063.gif"
+    "main.css": "/githubFinder/static/css/main.d5c2b49e.chunk.css",
+    "main.js": "/githubFinder/static/js/main.9552281c.chunk.js",
+    "main.js.map": "/githubFinder/static/js/main.9552281c.chunk.js.map",
+    "runtime-main.js": "/githubFinder/static/js/runtime-main.28db465b.js",
+    "runtime-main.js.map": "/githubFinder/static/js/runtime-main.28db465b.js.map",
+    "static/js/2.30e43140.chunk.js": "/githubFinder/static/js/2.30e43140.chunk.js",
+    "static/js/2.30e43140.chunk.js.map": "/githubFinder/static/js/2.30e43140.chunk.js.map",
+    "index.html": "/githubFinder/index.html",
+    "precache-manifest.8f2bb2e92d9061c7c9bc19c1bc0d9637.js": "/githubFinder/precache-manifest.8f2bb2e92d9061c7c9bc19c1bc0d9637.js",
+    "service-worker.js": "/githubFinder/service-worker.js",
+    "static/css/main.d5c2b49e.chunk.css.map": "/githubFinder/static/css/main.d5c2b49e.chunk.css.map",
+    "static/js/2.30e43140.chunk.js.LICENSE.txt": "/githubFinder/static/js/2.30e43140.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/githubFinder/static/media/loading.77466063.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.37caf175.js",
-    "static/js/2.981b5fa8.chunk.js",
+    "static/js/runtime-main.28db465b.js",
+    "static/js/2.30e43140.chunk.js",
     "static/css/main.d5c2b49e.chunk.css",
-    "static/js/main.6f119591.chunk.js"
+    "static/js/main.9552281c.chunk.js"
   ]
 }
